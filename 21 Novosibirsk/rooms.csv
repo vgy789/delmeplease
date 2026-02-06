@@ -1,0 +1,5 @@
+id;name;min_duration;max_duration;is_active;description
+1;Meeting Room A;15;60;true;Main meeting room for 8 people
+2;Meeting Room B;15;60;true;Small meeting room for 4 people
+3;Focus Room A;15;60;true;Individual focus room
+4;Focus Room B;15;60;true;Individual focus room

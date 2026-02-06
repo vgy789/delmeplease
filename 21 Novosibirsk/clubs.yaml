@@ -1,0 +1,39 @@
+---
+# Clubs Configuration (Novosibirsk Campus)
+
+# Novosibirsk Campus Leader
+leader:
+  name: 'Вася'
+  form_link: 'https://forms.yas.pu'
+
+# Educational Clubs
+clubs:
+  - id: 1
+    name: 'Just Dance'
+    description: 'Танцевальный клуб'
+    external_link: 'https://t.me/xZDBi'
+    leader_login: 'bolvanov'
+    campus: 'Novosibirsk'
+    category: 'Hobby'
+    is_local: true
+    is_active: true
+
+  - id: 2
+    name: 'Клуб настольных игр'
+    description: 'Настольные игры'
+    external_link: 'https://t.me/MTg6'
+    leader_login: ''
+    campus: 'Novosibirsk'
+    category: 'Hobby'
+    is_local: true
+    is_active: false
+
+  - id: 3
+    name: 'Музыкальный клуб'
+    description: 'Музыкальное сообщество'
+    external_link: 'https://t.me/s2k'
+    leader_login: ''
+    campus: 'Novosibirsk'
+    category: 'Hobby'
+    is_local: true
+    is_active: true
