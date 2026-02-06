@@ -13,7 +13,7 @@ clubs:
     description: 'Танцевальный клуб'
     external_link: 'https://t.me/xZDBi'
     leader_login: 'bolvanov'
-    campus: 'Novosibirsk'
+    campus: '21 Novosibirsk'
     category: 'Hobby'
     is_local: true
     is_active: true
@@ -23,7 +23,7 @@ clubs:
     description: 'Настольные игры'
     external_link: 'https://t.me/MTg6'
     leader_login: ''
-    campus: 'Novosibirsk'
+    campus: '21 Novosibirsk'
     category: 'Hobby'
     is_local: true
     is_active: false
@@ -33,7 +33,7 @@ clubs:
     description: 'Музыкальное сообщество'
     external_link: 'https://t.me/s2k'
     leader_login: ''
-    campus: 'Novosibirsk'
+    campus: '21 Novosibirsk'
     category: 'Hobby'
     is_local: true
     is_active: true
